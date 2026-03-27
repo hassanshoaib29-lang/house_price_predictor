@@ -8,7 +8,7 @@ An interactive machine learning application that predicts house prices using mul
 
 ## 🚀 Live Demo
 
-**Streamlit Cloud:** [Add your deployed URL here]
+**Streamlit Cloud:** https://housepriceprdeictor.streamlit.app/
 
 ## 📊 Features
 
@@ -21,9 +21,6 @@ An interactive machine learning application that predicts house prices using mul
 - **Beautiful UI**: Modern, responsive design
 
 
-Project Link: [https://github.com/yourusername/house-price-predictor](https://github.com/yourusername/house-price-predictor)
+Project Link: https://github.com/hassanshoaib29-lang/house_price_predictor
 
----
-
-⭐ If you found this project useful, please give it a star!
 
